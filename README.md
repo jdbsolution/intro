@@ -1,5 +1,5 @@
 
-当然，以下是这个教程的 Markdown 版本：
+
 
 ```markdown
 ## Python 基础教程
@@ -108,4 +108,4 @@ except ZeroDivisionError:
 以上是一个简单的 Python 基础教程，希望能够帮助你入门！如果你有任何问题，都可以问我。
 ```
 
-你可以将以上 Markdown 文本保存到一个文件中，然后使用支持 Markdown 的编辑器或在线工具进行查看或编辑。
+
