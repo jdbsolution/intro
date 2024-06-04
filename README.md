@@ -1,7 +1,6 @@
 
 
 
-```markdown
 ## Python 基础教程
 
 ### 1. 安装 Python：
