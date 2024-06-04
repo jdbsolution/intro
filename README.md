@@ -104,7 +104,6 @@ except ZeroDivisionError:
     print("Error: Division by zero!")
 ```
 
-以上是一个简单的 Python 基础教程，希望能够帮助你入门！如果你有任何问题，都可以问我。
-```
+
 
 
